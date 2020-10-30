@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Devops",
+    "slug": "devops",
+    "tags": ["aws", "docker", "heroku"]
+  },
+  {
+    "name": "Frontend",
+    "slug": "frontend",
+    "tags": ["vuejs", "angular", "react", "typescript", "css"]
+  },
+  {
+    "name": "Mobile",
+    "slug": "mobile",
+    "tags": ["flutter", "ionic", "cordova", "android", "swift"]
+  },
+  {
+    "name": "Backend",
+    "slug": "backend",
+    "tags": ["nodejs", "nestjs", "php", "laravel", "symphony", "ruby on rails", "java"]
+  }
+]
